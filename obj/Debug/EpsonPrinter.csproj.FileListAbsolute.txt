@@ -1,0 +1,6 @@
+F:\Work\EpsonPrinter_GC\bin\Debug\ConsoleApplication1.exe.config
+F:\Work\EpsonPrinter_GC\obj\Debug\ConsoleApplication1.exe
+F:\Work\EpsonPrinter_GC\obj\Debug\ConsoleApplication1.pdb
+F:\Work\EpsonPrinter_GC\bin\Debug\ConsoleApplication1.exe
+F:\Work\EpsonPrinter_GC\bin\Debug\ConsoleApplication1.pdb
+F:\Work\EpsonPrinter_GC\obj\Debug\EpsonPrinter.csprojResolveAssemblyReference.cache

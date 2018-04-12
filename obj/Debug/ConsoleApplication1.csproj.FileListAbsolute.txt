@@ -1,0 +1,10 @@
+d:\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+d:\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.PointOfService.dll
+F:\Work\EpsonPrinter_GC\bin\Debug\ConsoleApplication1.exe.config
+F:\Work\EpsonPrinter_GC\obj\Debug\ConsoleApplication1.exe
+F:\Work\EpsonPrinter_GC\obj\Debug\ConsoleApplication1.pdb
